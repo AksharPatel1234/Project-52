@@ -1,0 +1,30 @@
+.body{
+    background-color: #008080;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+    padding: 100px;
+    color: azure;
+
+}
+
+.body *{
+     border: 2px solid black;
+}
+
+a:visited{
+  color: #ffffff
+}
+
+.item:hover img{
+    opacity: 0.7;
+}
+
+h3{
+    color: rgb(133, 17, 17);
+
+   
+   
+}
+
