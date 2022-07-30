@@ -1,18 +1,56 @@
 .body{
-    background-color: #008080;
+    background-color: gray;
+  
+   
+    margin-top: 30px; ;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-   
-    padding: 100px;
-    color: azure;
-
+ 
+    
 }
 
-.body *{
-     border: 2px solid black;
+
+
+.Camel{
+    background-color: red;
+    
 }
 
+.Chameleon{
+    background-color: orange;
+    
+}
+
+.Panda{
+    background-color: yellow;
+    
+}
+
+.Teddy{
+    background-color: blue;
+    
+}
+
+.Dog{
+    background-color: green;
+    
+}
+
+.Cicada{
+    background-color: indigo;
+    
+}
+
+.Pigeon{
+    background-color: violet;
+    
+}
+
+.Frog{
+    background-color: teal;
+    
+}
 a:visited{
   color: #ffffff
 }
